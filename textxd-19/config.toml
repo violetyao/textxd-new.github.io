@@ -1,7 +1,8 @@
 title = "TextXD"
-baseURL = "https://textxd-new.github.io"
+baseURL = "https://violetyao.github.io/textxd"
 languageCode = "en-us"
 theme = "ananke"
+publishDir = "docs"
 
 MetaDataFormat = "yaml"
 DefaultContentLanguage = "en"

@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+# https://textxd-new.github.io
+languageCode = "en-us"
+# datocms:start
+title = "TextXD: Text Analysis Across Domains"
+# datocms:end
+theme = "ananke"

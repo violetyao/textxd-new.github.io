@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Past Events on TextXD</title>
+    <link>https://violetyao.github.io/textxd/pastevents/</link>
+    <description>Recent content in Past Events on TextXD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://violetyao.github.io/textxd/pastevents/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TextXD 17</title>
+      <link>https://violetyao.github.io/textxd/pastevents/chapter-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetyao.github.io/textxd/pastevents/chapter-2/</guid>
+      <description>At the 2017 TextXD event, held at UC Berkeley’s Institute for Data Science (BIDS), we gathered about 60 researchers from several institutions representing expertise in text analysis. The common bond between all of these researchers coming from different domains is that they work with texts as a primary source of data. Throughout the event, we learned from one another while strengthening ties across disciplinary boundaries and began the development of collaborations that we hope will have a lasting impact on the community.</description>
+    </item>
+    
+    <item>
+      <title>TextXD 18</title>
+      <link>https://violetyao.github.io/textxd/pastevents/chapter-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://violetyao.github.io/textxd/pastevents/chapter-1/</guid>
+      <description>TextXD is open to anyone involved in diverse aspects of text analysis across disciplines, and includes representatives from universities, industry and national labs.
+Agenda When, Where, Who? Dec 5-7, 2018
+UC Berkeley Berkeley Institute for Data Science (BIDS) 190 Doe Library Berkeley, CA 94720 Registration  -- Building Map Parking Directions to the UC Berkeley campus and Doe Library
+Interactive campus map here.
+Public parking lots near the Berkeley campus allowing all-day parking</description>
+    </item>
+    
+  </channel>
+</rss>
