@@ -18,6 +18,11 @@
   weight = 60
 
 [[main]]
+  name = "2019 Agenda"
+  url = "#talks"
+  weight = 65
+
+[[main]]
   name = "Past Events"
   url = "#experience"
   weight = 70

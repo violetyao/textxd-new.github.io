@@ -6,10 +6,10 @@
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 15  # Order that this section will appear.
+weight = 1  # Order that this section will appear.
 
-title = "TextXD: Dec. 3 - 5, 2019"
-subtitle = "Text Analysis Across Domains 2019"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,7 +29,7 @@ subtitle = "Text Analysis Across Domains 2019"
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/bubbles-wide.jpg"  # Name of image in `static/img/`.
+  image = "headers/3.jpg"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -37,7 +37,7 @@ subtitle = "Text Analysis Across Domains 2019"
 
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
-  padding = ["20px", "0", "20px", "0"]
+  padding = ["20px", "20px", "20px", "0"]
 
 [advanced]
  # Custom CSS. 
@@ -47,4 +47,18 @@ subtitle = "Text Analysis Across Domains 2019"
  css_class = ""
 +++
 
-Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software.
+
+<div>
+<br>
+<br>
+<h1 class="text-center white-font font-weight-10">TextXD: Dec. 3 - 5, 2019</h1>
+<p class="text-center white-font font-weight-200">Text Analysis Across Domains</p>
+<br>
+<br>
+<p class="text-center white-font font-weight-5000">Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software. </p>
+<p class="text-center white-font font-weight-5000">Sponsored by: </p>
+<br>
+<br>
+<br>
+<br>
+</div>
