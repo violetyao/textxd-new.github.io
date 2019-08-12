@@ -13,6 +13,11 @@
   weight = 50
 
 [[main]]
+  name = "Subscribe"
+  url = "#mailinglist"
+  weight = 51
+
+[[main]]
   name = "Organzing Team"
   url = "#people"
   weight = 60

@@ -60,6 +60,7 @@ width: 50%;
 </head>
 
 <body>
+<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/a062a2cae318d30964107a0dc/5c5c4b644791f168f9bbf8aba.js");</script>
 <div>
 <br>
 <br>
@@ -76,7 +77,7 @@ width: 50%;
 <p class="text-center white-font font-weight-5000">Sponsored by:  </p>
 {{< figure library="true" src="sponsor.png" height="200" width="600" class="center" lightbox="true" >}}
 <br>
-
+<br>
 
 </div>
 </body>
