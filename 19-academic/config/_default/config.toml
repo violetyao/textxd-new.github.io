@@ -16,7 +16,7 @@ baseurl = "http://www.textxd.org/"
 copyright = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-129172079-1"
 
 ############################
 ## Advanced options below ##

@@ -29,7 +29,7 @@ subtitle = ""
   # gradient_end = "SkyBlue"
   
   # Background image.
-  image = "headers/3.jpg"  # Name of image in `static/img/`.
+  image = "headers/3.png"  # Name of image in `static/img/`.
   image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
 
   # Text color (true=light or false=dark).
@@ -45,20 +45,38 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
 +++
+<html>
+<head>
+<style>
+.center {
+display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
+}
+</style>
+</head>
 
-
+<body>
 <div>
 <br>
 <br>
 <h1 class="text-center white-font font-weight-10">TextXD: Dec. 3 - 5, 2019</h1>
 <p class="text-center white-font font-weight-200">Text Analysis Across Domains</p>
 <br>
-<br>
 <p class="text-center white-font font-weight-5000">Connecting practitioners from various fields in academia, research, and industry, to understand each other's use of text processing data, algorithms, and software. </p>
-<p class="text-center white-font font-weight-5000">Sponsored by: </p>
 <br>
+<ul style="list-style-type:disc;">
+<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSdtf7W9TqIu-_WIfDvCnYHlrRKVQO899lH6xw4wbBb_Jof-hQ/viewform">Call for Submissions</a>: submit an abstract by Sept. 20</li>
+<li>Ideas for TextXD 2019? <a href="https://docs.google.com/forms/d/e/1FAIpQLSe9ISpOJ9mn5nx3q2JwsAW_LtHZ2G8RgDLpag9mtXn1aHX_3A/viewform">Complete our feedback survey.</a></li>
+</ul>  
+
+<p class="text-center white-font font-weight-5000">Sponsored by:  </p>
+{{< figure library="true" src="sponsor.png" height="200" width="600" class="center" lightbox="true" >}}
 <br>
-<br>
-<br>
+
+
 </div>
+</body>
