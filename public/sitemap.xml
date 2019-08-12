@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://www.textxd.org/talk/example/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/talk/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/</loc>
+    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/gologorskaya/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/srivastava/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/aaron/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/caroline/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/eshaan/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/haveman/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/jaren/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/violet/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/authors/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/publication_types/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.textxd.org/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

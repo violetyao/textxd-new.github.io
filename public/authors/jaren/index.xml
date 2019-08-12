@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TextXD</title>
+    <link>http://www.textxd.org/authors/jaren/</link>
+    <description>Recent content on TextXD</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="http://www.textxd.org/authors/jaren/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
